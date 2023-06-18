@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Animal Sounds",
+      "setup": "",
+      "run": "node animal-sounds.js",
+      "input": "",
+      "output": "I am not sure what noise that animal makes\r\nI am not sure what noise that animal makes\r\nI am not sure what noise that animal makes\r\nDogs go WOOOF!\r\nCows go MOOOO!\r\nDucks go QUACK!\r\nDogs go WOOOF!\r\nI am not sure what noise that animal makes\r\nCows go MOOOO!\r\nDogs go WOOOF!\r\nDucks go QUACK!\r\nDucks go QUACK!",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
